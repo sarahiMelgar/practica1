@@ -1,4 +1,2 @@
-<?php
-
-echo "Melgar Angeles Gabriela Sarahi";
+ "Melgar Angeles Gabriela Sarahi"
 
